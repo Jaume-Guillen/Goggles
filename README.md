@@ -1,2 +1,2 @@
 # Goggles
-Small website of an opticals shop that lists some glasses
+Small website of an optical shop that lists some glasses
